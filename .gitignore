@@ -1,0 +1,7 @@
+/.pytest_cache
+Logs/__pycache__
+Method/__pycache__
+Testcase/__pycache__
+Testcase/.pytest_cache
+TestData/__pycache__
+/venv
